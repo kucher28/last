@@ -1,0 +1,7 @@
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
